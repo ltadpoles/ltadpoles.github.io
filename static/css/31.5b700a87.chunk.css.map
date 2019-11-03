@@ -1,1 +1,0 @@
-{"version":3,"sources":["editor.scss"],"names":[],"mappings":"AAAA,QACI,YAAa,CACb,wBAAyB,CACzB,iBAAkB","file":"31.5b700a87.chunk.css","sourcesContent":[".editor {\r\n    padding: 2rem;\r\n    border: 1px solid #f3eded;\r\n    border-radius: 5px;\r\n}\r\n"]}

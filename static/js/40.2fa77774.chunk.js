@@ -1,2 +1,0 @@
-(window["webpackJsonpreact-admin"]=window["webpackJsonpreact-admin"]||[]).push([[40],{669:function(e,t,n){e.exports=n.p+"static/media/500.4afd5a57.png"},965:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a),i=n(669),r=n.n(i),s=function(){return c.a.createElement("div",{style:{textAlign:"center"}},c.a.createElement("img",{src:r.a,alt:""}))};t.default=s}}]);
-//# sourceMappingURL=40.2fa77774.chunk.js.map
